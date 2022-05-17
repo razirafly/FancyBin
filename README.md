@@ -1,0 +1,2 @@
+# FancyBin
+Prototype Website
