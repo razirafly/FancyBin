@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'quicksand', cursive;
 
   color: #48494a;
   background-image: url(../images/wave.jpg);
@@ -70,6 +72,13 @@ body {
 
 .header_section {
   padding-top: 10px;
+}
+
+header{
+  background-color: #07d307;
+  padding: 5px;
+  position: sticky;
+  top: 0;
 }
 
 nav.navbar.navbar-expand-lg {
@@ -421,9 +430,8 @@ a:focus {
 /* footer section*/
 
 .footer_section {
-  background-color: #07d307;
-  padding: 20px 0;
-  font-family: "Roboto", sans-serif;
+  background-color: forestgreen;
+  padding: 2em;
 }
 
 .footer_section p {
